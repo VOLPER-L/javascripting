@@ -9,6 +9,7 @@
   "dependencies": {
     "colors": "1.4.0",
     "diff": "^5.0.0",
+    "eslint": "^7.18.0",
     "workshopper-adventure": "^7.0.0"
   },
   "devDependencies": {
